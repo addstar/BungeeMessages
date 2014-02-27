@@ -1,0 +1,7 @@
+* text=auto
+
+#################
+## Java
+#################
+*.java text
+*.java diff=java
